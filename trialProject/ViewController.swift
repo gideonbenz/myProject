@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
 //        test
         print("Ada apa")
+        print("commit 2 yang harus terkomit")
     }
 
     override func didReceiveMemoryWarning() {
